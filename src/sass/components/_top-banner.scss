@@ -1,0 +1,42 @@
+.slick-slider {
+  background-color: $primary-brand-color;
+  .slide-item {
+    position: relative;
+    width: 100vw;
+    height: 100vw * 940 / 1920;
+
+    .image {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 1;
+    }
+
+    .title {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      padding: 24px 40px;
+      width: 40vw;
+      min-height: 120px;
+      background-color: $primary-brand-color;
+      z-index: 2;
+
+      h2 {
+        display: block;
+        font-size: 26px;
+        line-height: 1.5;
+        color: #fff;
+      }
+    }
+  }
+  .slick-dots {
+    background-color: $primary-brand-color;
+    bottom: 0;
+  }
+}

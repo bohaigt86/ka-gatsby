@@ -1,7 +1,11 @@
 import * as React from "react"
 import Slider from "react-slick"
 
+import { StaticImage } from "gatsby-plugin-image"
+
 import Layout from "../components/layout"
+import TopBanner from "../components/hp/top-banner"
+import KeystoneDiff from "../components/hp/keystone-diff"
 
 const settings = {
   dots: true,
@@ -14,27 +18,8 @@ const settings = {
 const IndexPage = () => (
   <Layout>
     <div>
-      <h2> Single Item</h2>
-      <Slider {...settings}>
-        <div>
-          <h3>1</h3>
-        </div>
-        <div>
-          <h3>2</h3>
-        </div>
-        <div>
-          <h3>3</h3>
-        </div>
-        <div>
-          <h3>4</h3>
-        </div>
-        <div>
-          <h3>5</h3>
-        </div>
-        <div>
-          <h3>6</h3>
-        </div>
-      </Slider>
+      <TopBanner />
+      <KeystoneDiff />
     </div>
   </Layout>
 )
