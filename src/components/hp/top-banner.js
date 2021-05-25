@@ -46,9 +46,7 @@ const TopBanner = () => {
             const image = getImage(
               post.node.frontmatter.thumbnail.childImageSharp.gatsbyImageData
             )
-            console.log(
-              post.node.frontmatter.thumbnail.childImageSharp.gatsbyImageData
-            )
+
             return (
               <div className="slide-item" key={post.node.frontmatter.date}>
                 <GatsbyImage

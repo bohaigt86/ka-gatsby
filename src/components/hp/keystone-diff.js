@@ -3,11 +3,11 @@ import React from "react"
 const KeystoneDiff = () => {
   return (
     <div id="keystone-diff">
-      <ul class="container-fluid">
-        <li class="col-24 col-lg-6">
+      <ul className="container-fluid">
+        <li className="col-24 col-lg-6">
           <h2>The Keystone Differences</h2>
         </li>
-        <li class="col-8 col-lg-6">
+        <li className="col-8 col-lg-6">
           <div className="item">
             <div className="bg"></div>
             <div className="title">
@@ -16,7 +16,7 @@ const KeystoneDiff = () => {
             </div>
           </div>
         </li>
-        <li class="col-8 col-lg-6">
+        <li className="col-8 col-lg-6">
           <div className="item">
             <div className="bg"></div>
             <div className="title">
@@ -28,7 +28,7 @@ const KeystoneDiff = () => {
             </div>
           </div>
         </li>
-        <li class="col-8 col-lg-6">
+        <li className="col-8 col-lg-6">
           <div className="item">
             <div className="bg"></div>
             <div className="title">

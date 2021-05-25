@@ -1,0 +1,10 @@
+---
+slug: "/leadership/academic-leadership-team/grace-wang"
+title: "GRACE WANG, ASSISTANT HEAD OF PRIMARY SCHOOL"
+thumbnail: "../../../../images/leadership/grace-wang.jpg"
+name: "Grace Wang"
+job: "Assistant Head of Primary School"
+description: "Ms. Grace Wang joined in Keystone Primary School as a founding staff member in 2014. Grace holds a Master’s degree in Chinese Language and Literature from the Communication University of China, and completed the Senior Management Course in International School Operations and Management at Peking University, during which she visited different international schools in various regions in China, and finished her thesis titled “The Exploration and Practice of Integrating the Compulsory Chinese National Curriculum with International Curricula” based on her observation, analysis, and research."
+---
+
+Ms. Grace Wang joined in Keystone Primary School as a founding staff member in 2014. She previously taught Chinese and Chinese Culture at the international department of a public school and Yew Chung International School in Beijing. In her teaching experience of over ten years, she has been invited to attend international educational forums and delivered speeches many times. Grace holds a Master’s degree in Chinese Language and Literature from the Communication University of China, and completed the Senior Management Course in International School Operations and Management at Peking University, during which she visited different international schools in various regions in China, and finished her thesis titled “The Exploration and Practice of Integrating the Compulsory Chinese National Curriculum with International Curricula” based on her observation, analysis, and research. In addition to simplified Chinese and English, she also has a profound understanding of the history of the Chinese Language. Having participated in setting exam questions in Hanban Office, she is very familiar with the requirements and standards of the Chinese language examinations.

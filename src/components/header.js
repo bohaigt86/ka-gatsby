@@ -119,7 +119,7 @@ function Header() {
                           <li className="dropdown__item" key={subLink.name}>
                             <Link
                               className="dropdown__link"
-                              to={`${link.link}${subLink.link}`}
+                              to={`${link}${subLink.link}`}
                             >
                               {subLink.name}
                             </Link>
